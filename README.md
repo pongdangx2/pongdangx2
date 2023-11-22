@@ -3,6 +3,12 @@
 ### Social
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeonghoon-lee-6a2535161/)](https://www.linkedin.com/in/kyeonghoon-lee-6a2535161/)
+
+### Resume
+[![Generic badge](https://img.shields.io/badge/Resume-<COLOR>.svg?link=https://spiced-cousin-d17.notion.site/7777051712544cfc913fa49494075087?pvs=4)](https://shields.io/)
+
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--https://www.linkedin.com/in/kyeonghoon-lee-6a2535161/
 **pongdangx2/pongdangx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
