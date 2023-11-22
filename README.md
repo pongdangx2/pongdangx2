@@ -1,6 +1,9 @@
-### Hi there 👋
+# Backend Engineer
 
-<!--
+### Social
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeonghoon-lee-6a2535161/)](https://www.linkedin.com/in/kyeonghoon-lee-6a2535161/)
+<!--https://www.linkedin.com/in/kyeonghoon-lee-6a2535161/
 **pongdangx2/pongdangx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
