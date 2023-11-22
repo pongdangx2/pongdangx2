@@ -2,7 +2,6 @@
 
 ### Social
 [![Generic badge](https://img.shields.io/badge/Resume-<COLOR>.svg?link=https://spiced-cousin-d17.notion.site/7777051712544cfc913fa49494075087?pvs=4)](https://spiced-cousin-d17.notion.site/7777051712544cfc913fa49494075087?pvs=4)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeonghoon-lee-6a2535161/)](https://www.linkedin.com/in/kyeonghoon-lee-6a2535161/)
 
 
