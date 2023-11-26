@@ -8,7 +8,7 @@
 ### Backend Engineer
 - Java, Spring Based Backend Engineer
 
-### Interest
+### About Me.
 - 비즈니스 도메인을 파악하고 분석하는 것을 좋아합니다.
 - 지속적인 리팩토링으로 더 안정적인 시스템을 만들어 나가려고 노력하고 있습니다.
 
